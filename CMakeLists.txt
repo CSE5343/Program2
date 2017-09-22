@@ -3,5 +3,5 @@ project(5343program2)
 
 set(CMAKE_C_STANDARD 99)
 
-set(SOURCE_FILES main.c)
+set(SOURCE_FILES twoSleepy.c)
 add_executable(5343program2 ${SOURCE_FILES})
